@@ -9,4 +9,4 @@ class Espeon(Psychic):
             Move("Stored Power", "PSYCHIC", 860),
             Move("Future Sight", "PSYCHIC", 120)
         ]
-        super().__init__("Charizard", 120, moves, "./TVPoke/Pokemon/imgs/Espeon.png")
+        super().__init__("Espeon", 120, moves, "./TVPoke/Pokemon/imgs/Espeon.png")
