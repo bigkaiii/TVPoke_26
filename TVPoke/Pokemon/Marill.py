@@ -9,4 +9,4 @@ class Marill(Water):
             Move("All Out Pummeling", "FIGHTING", 200),
             Move("Z-Belly Drum", "NORMAL", 0)
         ]
-        super().__init__("Marill", 344, moves, "./TVPoke/Pokemon/imgs/Golduck.png")
+        super().__init__("Marill", 344, moves, "./TVPoke/Pokemon/imgs/Marill.png")
